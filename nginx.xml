@@ -1,0 +1,14 @@
+<application>
+  <component name="nginxServers">
+    <NginxServerDescriptor>
+      <option name="configPath" value="D:/nginx-1.10.2/conf/nginx.conf" />
+      <option name="errorLogPath" value="D:/nginx-1.10.2/logs/error.log" />
+      <option name="executablePath" value="D:/nginx-1.10.2/nginx.exe" />
+      <option name="globals" value="" />
+      <option name="httpLogPath" value="D:/nginx-1.10.2/logs/access.log" />
+      <option name="id" value="nginx.descriptor.1495028348453" />
+      <option name="name" value="nginx/Windows [1.10.2]" />
+      <option name="pidPath" value="D:/nginx-1.10.2/logs/nginx.pid" />
+    </NginxServerDescriptor>
+  </component>
+</application>

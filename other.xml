@@ -1,0 +1,58 @@
+<application>
+  <component name="AngularJSConfig">
+    <option name="INSERT_WHITESPACE" value="true" />
+  </component>
+  <component name="GlobalAntConfiguration">
+    <filtersTableLayout>
+      <item key="Width2" value="283" />
+      <item key="Width0" value="28" />
+      <item key="Width1" value="284" />
+    </filtersTableLayout>
+    <propertiesTableLayout>
+      <item key="Width0" value="15" />
+      <item key="Width1" value="15" />
+    </propertiesTableLayout>
+    <registeredAnts>
+      <ant>
+        <classpath>
+          <classpathItem dir="file://D:/apache-ant-1.8.4/lib" />
+        </classpath>
+        <homeDir value="D:\apache-ant-1.8.4" />
+        <name value="Apache Ant version 1.8.4" />
+        <version value="1.8.4" />
+      </ant>
+      <ant>
+        <classpath>
+          <classpathItem dir="file://D:/apache-ant-1.9.7/lib" />
+        </classpath>
+        <homeDir value="D:\apache-ant-1.9.7" />
+        <name value="Apache Ant version 1.9.7" />
+        <version value="1.9.7" />
+      </ant>
+    </registeredAnts>
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="D:/Program Files/nodejs/node.exe" />
+  </component>
+  <component name="RefactoringSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_CLASS" value="false" />
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="RENAME_INHERITORS" value="false" />
+    <option name="RENAME_VARIABLES" value="false" />
+    <option name="RENAME_TESTS" value="false" />
+  </component>
+  <component name="SvnBranchMapperManager">
+    <option name="myMapping">
+      <map>
+        <entry key="http://svn.sany.com.cn/svn/SanyESB/sany-greatwall/trunk">
+          <value>
+            <set>
+              <option value="D:\Project\SanyESB\sany-greatwall\trunk" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

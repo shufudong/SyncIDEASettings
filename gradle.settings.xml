@@ -1,0 +1,5 @@
+<application>
+  <component name="GradleSystemSettings">
+    <option name="gradleVmOptions" value="-Xmx2048m -Dorg.gradle.parallel=true" />
+  </component>
+</application>

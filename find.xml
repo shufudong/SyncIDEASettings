@@ -20,12 +20,9 @@
       <mask>*.ja</mask>
       <mask>*.ml</mask>
       <mask>*.m</mask>
-      <mask>*.xml</mask>
       <mask>*。</mask>
       <mask>*。j</mask>
       <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.</mask>
       <mask>*.java</mask>
       <mask>b</mask>
       <mask>bb</mask>
@@ -36,6 +33,9 @@
       <mask>bboss*</mask>
       <mask>bboss*.</mask>
       <mask>bboss*.xml</mask>
+      <mask>*.</mask>
+      <mask>*.</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
